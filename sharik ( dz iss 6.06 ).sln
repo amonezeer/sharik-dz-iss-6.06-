@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sharik ( dz iss 6.06 )", "sharik ( dz iss 6.06 )\sharik ( dz iss 6.06 ).csproj", "{4563EA39-7D58-4C17-B0BB-74C03A4D86E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4563EA39-7D58-4C17-B0BB-74C03A4D86E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4563EA39-7D58-4C17-B0BB-74C03A4D86E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4563EA39-7D58-4C17-B0BB-74C03A4D86E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4563EA39-7D58-4C17-B0BB-74C03A4D86E5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7CF5C483-A2DC-4AF3-A6DD-24B806FD8A6D}
+	EndGlobalSection
+EndGlobal
